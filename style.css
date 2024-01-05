@@ -21,6 +21,10 @@ grid-template-columns: 1fr 1fr;
 
 }
 
+#mycanvas {
+    object-fit: contain;
+}
+
 #menu span {
     font-size:1.2em;
     font-weight: bold;
